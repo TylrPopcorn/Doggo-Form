@@ -70,7 +70,6 @@ class App extends React.Component {
   //--
   //Each time the input gets changed.
   onChange = (evt) => {
-    console.log("changed");
     this.setState({
       ...this.state,
       errors: "",
