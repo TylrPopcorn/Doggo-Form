@@ -1,4 +1,9 @@
 .App {
   font-family: "Courier New", Courier, monospace;
   text-align: center;
+  background-color: rgb(253, 253, 253);
+}
+
+#error {
+  color: red;
 }
