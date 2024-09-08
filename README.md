@@ -15,3 +15,4 @@ Search for a breed of dog
 
 # Related Projects
 -  [Television Show Search](https://github.com/TylrPopcorn/Television-Show-Search) - *A simple project showcasing how to manipulate an API in Svelte.js*
+-  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
