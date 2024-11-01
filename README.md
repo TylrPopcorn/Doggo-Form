@@ -15,4 +15,5 @@ Search for a breed of dog
 
 # Related Projects
 -  [Television Show Search](https://github.com/TylrPopcorn/Television-Show-Search) - *A simple project showcasing how to manipulate an API in Svelte.js*
+-  [Random Letter Generator](https://github.com/TylrPopcorn/Random-Letter-Generator) - *A simple application that will generate a random letter when a button is clicked on.*
 -  [Projects List](https://github.com/TylrPopcorn/Projects-List) - *Explore other projects I have worked on*
